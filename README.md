@@ -2,9 +2,11 @@
 
 I‘m Reeves 
 
-Like Coding💻 with TypeScipt, also a player🎮 on PlayStation and Steam
+Coding💻 with TypeScipt
 
 🔭 I’m currently working on React Project in a tech company
+
+🎮 A player on PlayStation
 
 My current tech stack
 
@@ -20,7 +22,7 @@ My current tech stack
 ![npm](https://img.shields.io/badge/-npm-%23579050?style=flat&logo=npm&logoColor=ffffff&color=2C2C32)
 ![yarn](https://img.shields.io/badge/-yarn-%23579050?style=flat&logo=yarn&logoColor=ffffff&color=2C8EBB)
 
-🌱 I’m currently learning everything, some of those recording in my blog.
+🌱 I’m currently learning React and Node, some of those recording in my blog.
 
  This is my blog 👉  [Reeves' Blog](https://ericreevess.github.io/) , welcome to access
  
