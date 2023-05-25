@@ -6,8 +6,6 @@ Coding💻 with TypeScipt
 
 🔭 I’m currently working on React Project in a tech company
 
-🎮 A player on PlayStation
-
 My current tech stack
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E34C26?style=flat&logo=html5&logoColor=ffffff)
@@ -27,7 +25,6 @@ My current tech stack
  This is my blog 👉  [Reeves' Blog](https://ericreevess.github.io/) , welcome to access
  
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=EricReevess&show_icons=true&theme=radical)
-
 
 <!--
 **EricReevess/EricReevess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
